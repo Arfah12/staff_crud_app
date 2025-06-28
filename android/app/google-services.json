@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1030003293965",
+    "project_id": "staff-app-752e1",
+    "storage_bucket": "staff-app-752e1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030003293965:android:7434b3e0ea7491b3a9ba44",
+        "android_client_info": {
+          "package_name": "com.example.staff_crud_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE-MaNVOzEsD6QhZklXNXTzSZK9y_KeOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030003293965:android:ea2c96dfd4342b15a9ba44",
+        "android_client_info": {
+          "package_name": "com.example.staff_crud_app_fixed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE-MaNVOzEsD6QhZklXNXTzSZK9y_KeOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
