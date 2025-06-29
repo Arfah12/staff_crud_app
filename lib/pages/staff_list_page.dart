@@ -186,7 +186,7 @@ class _StaffListPageState extends State<StaffListPage> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('👥 Staff List'),
+        title: const Text('Staff List'),
         actions: [
           IconButton(
             icon: const Icon(Icons.brightness_6),

@@ -92,7 +92,7 @@ class _AddStaffPageState extends State<AddStaffPage> {
     return Scaffold(
       backgroundColor: theme.scaffoldBackgroundColor,
       appBar: AppBar(
-        title: const Text("➕ Add Staff"),
+        title: const Text("Add Staff"),
         backgroundColor: Colors.teal,
         foregroundColor: Colors.white,
         elevation: 1,
